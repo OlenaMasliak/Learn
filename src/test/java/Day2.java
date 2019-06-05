@@ -31,7 +31,7 @@ public class Day2 {
     @Test
     public void testClasses() {
         MyClass myClassObject = new MyClass();
-        MyClass myClasObject1 = new MyClass("Value from test");
+        MyClass myClasObject1 = new MyClass("Value from test test");
     }
 
     @Test
