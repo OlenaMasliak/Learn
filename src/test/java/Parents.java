@@ -10,7 +10,7 @@ public class Parents {
     }
 
     void running(){
-        System.out.println("Eating cookies");
+        System.out.println("Eating cookies with milk");
     }
 
 }
