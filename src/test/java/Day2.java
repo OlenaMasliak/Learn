@@ -42,14 +42,7 @@ public class Day2 {
         myCat1.jump();
     }
 
-    @Test
-    public void testInheritance() {
-        Kids kids = new Kids();
-        System.out.println(kids.name);
-
-        Parents.eat()
-
     }
-}
+
 
 
